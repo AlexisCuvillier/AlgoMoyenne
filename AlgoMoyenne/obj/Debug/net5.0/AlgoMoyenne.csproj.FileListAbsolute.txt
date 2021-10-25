@@ -1,0 +1,16 @@
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.AssemblyInfo.cs
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\AlgoMoyenne.exe
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\AlgoMoyenne.deps.json
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\AlgoMoyenne.runtimeconfig.json
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\AlgoMoyenne.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\AlgoMoyenne.dll
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\ref\AlgoMoyenne.dll
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\bin\Debug\net5.0\AlgoMoyenne.pdb
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.dll
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\ref\AlgoMoyenne.dll
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.pdb
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.genruntimeconfig.cache
+C:\Users\alexi\source\repos\AlgoMoyenne\AlgoMoyenne\obj\Debug\net5.0\AlgoMoyenne.csproj.AssemblyReference.cache
